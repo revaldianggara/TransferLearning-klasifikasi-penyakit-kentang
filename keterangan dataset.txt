@@ -1,0 +1,11 @@
+kentang_2152
+total train 1937
+total valid 215
+
+kentang_3000
+total train 2700
+total valid 300
+
+kentang_7128
+total train 5702
+totral valid 1426
